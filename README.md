@@ -36,3 +36,11 @@ Foodie is a complete full-stack food delivery web application built using the ME
 <p align=""><strong><small>Figure 4: Order Status Monitoring </small></strong></p> 
 
 <img src="Images/Admin_Page_2.png" height= "300" width="650"/>
+
+### Backend API (Express.js)
+- **RESTful Architecture:** Built using Express.js to manage authentication, cart, order, and product operations.
+- **JWT(JSON Web Token) Middleware:** Protects sensitive endpoints by verifying tokens and attaching user data to requests.
+- **Mongoose Models:** Developed schema definitions for User, Order, and Food, enabling efficient CRUD operations on MongoDB.
+- **Modular Controllers:** Separated logic for users, cart, food, and orders to maintain code clarity and scalability.
+
+
