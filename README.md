@@ -21,3 +21,14 @@ Foodie is a complete full-stack food delivery web application built using the ME
 
 <img src="Images/Checkout_Page_1.png" height= "300" width="500" style="margin-right: 20px;"/>   <img src="Images/Checkout_Page_2.png" height="300" width="500"/>
 
+### Admin Interface (Frontend - React.js, Vite, CSS)
+- **Food Catalog Management:** Add, edit, and delete food items including name, description, category, and images as shown in the Figure 3 below.
+- **Order Monitoring:** Track all orders placed across the platform and update their statuses (e.g., "Processing", "Delivered") as shown in the Figure 4 below.
+  
+<p align=""><strong><small>Figure 3: Food Catalog Management </small></strong></p> 
+
+<img src="Images/Admin_Page_1.png" height= "300" width="500"/>
+
+<p align=""><strong><small>Figure 4: Order Status Monitoring </small></strong></p> 
+
+<img src="Images/Admin_Page_2.png" height= "300" width="500"/>
