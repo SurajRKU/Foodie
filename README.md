@@ -13,13 +13,13 @@ Foodie is a complete full-stack food delivery web application built using the ME
 - **Smart Cart System:** Cart is managed per-user with quantity tracking using MongoDB.
 - **Order Placement:** Users can place orders, enter delivery details, and view totals including delivery fees as shown in figure 2 below.
   
-<p align="center"><strong><small>Figure 1: Browse by Category </small></strong></p> 
+<p align=""><strong><small>Figure 1: Browse by Category </small></strong></p> 
 
-<img src="Images/Home_Page_B.png" height= "300" width="500" style="margin-right: 20px;"/>   <img src="Images/Home_Page_C.png" height="300" width="500"/>
+<img src="Images/Home_Page_B.png" height= "300" width="450" style="margin-right: 10px;"/>   <img src="Images/Home_Page_C.png" height="300" width="450"/>
 
-<p align="center"><strong><small>Figure 2: Cart and Checkout </small></strong></p> 
+<p align=""><strong><small>Figure 2: Cart and Checkout </small></strong></p> 
 
-<img src="Images/Checkout_Page_1.png" height= "300" width="500" style="margin-right: 20px;"/>   <img src="Images/Checkout_Page_2.png" height="300" width="500"/>
+<img src="Images/Checkout_Page_1.png" height= "300" width="450" style="margin-right: 10px;"/>   <img src="Images/Checkout_Page_2.png" height="300" width="450"/>
 
 ### Admin Interface (Frontend - React.js, Vite, CSS)
 - **Food Catalog Management:** Add, edit, and delete food items including name, description, category, and images as shown in the Figure 3 below.
