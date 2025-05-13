@@ -43,4 +43,34 @@ Foodie is a complete full-stack food delivery web application built using the ME
 - **Mongoose Models:** Developed schema definitions for User, Order, and Food, enabling efficient CRUD operations on MongoDB.
 - **Modular Controllers:** Separated logic for users, cart, food, and orders to maintain code clarity and scalability.
 
+### Project Execution Steps
+####  1. Setup Backend
+- **Step 1:** Clone the Repository.
+- **Step 2:** Set Up Backend
+```bash
+cd foodie/backend
+npm install
+```
+- **Step 3:** Your can either update the existing .env file with your PORT number, MONGO_URI and JWT_SECRET_KEY or leave it as it is.
+- **Step 4:** Start the backend server
+```bash
+npm start
+```
+#### 2. Setup Frontend
+```bash
+cd foodie/frontend
+npm install
+npm run dev
+```
+#### 3. Setup Admin Panel
+```bash
+cd foodie/admin
+npm install
+npm run dev
+```
+### Future Enhancements
+- Pagination and filtering for large food menus
+- Push/email notifications on order events
+- Increase scope of Role-based access control (e.g. separate delivery personnel login)
 
+  
